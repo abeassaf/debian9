@@ -349,6 +349,9 @@ cis-dil-benchmark-6.1.7:
 cis-dil-benchmark-6.1.9:
   run: false
   justification: "reason for waiving this control, It does not apply since we running the VM in the cloud"
+cis-dil-benchmark-6.1.10:
+  run: false
+  justification: "reason for waiving this control, It does not apply since we running the VM in the cloud"
 cis-dil-benchmark-6.1.11:
   run: false
   justification: "reason for waiving this control, It does not apply since we running the VM in the cloud"
@@ -359,6 +362,9 @@ cis-dil-benchmark-6.2.6:
   run: false
   justification: "reason for waiving this control, It does not apply since we running the VM in the cloud"
 cis-dil-benchmark-6.2.7:
+  run: false
+  justification: "reason for waiving this control, It does not apply since we running the VM in the cloud"
+cis-dil-benchmark-6.2.3:
   run: false
   justification: "reason for waiving this control, It does not apply since we running the VM in the cloud"
 cis-dil-benchmark-6.2.8:
